@@ -1,5 +1,1 @@
-# Advance-Data-Structures-and-Algorithms
-
----
-
-**This repository contain my leetcode submission report.**
+https://leetcode.com/submissions/detail/1755742906/
