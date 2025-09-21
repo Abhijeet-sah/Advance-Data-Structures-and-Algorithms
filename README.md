@@ -1,6 +1,1 @@
-### Problem 1004: Max Consecutive Ones III
-[Submission Link](https://leetcode.com/submissions/detail/1771492880/)
----
-
-[Submission Link](https://leetcode.com/submissions/detail/1770425556/)
----
+***HERE YOU GOT ALL MY SUBMISSION REPORT OF LEETCODE PROBLEMS***
