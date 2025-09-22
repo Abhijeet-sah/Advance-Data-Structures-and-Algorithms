@@ -13,4 +13,8 @@ https://leetcode.com/submissions/detail/1779004716/
 https://leetcode.com/submissions/detail/1779004716/
 
 
+
 **540. Single Element in a Sorted Array**
+
+*Submission Link*
+https://leetcode.com/submissions/detail/1779033518/
