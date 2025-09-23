@@ -18,3 +18,20 @@ https://leetcode.com/submissions/detail/1779004716/
 
 *Submission Link*
 https://leetcode.com/submissions/detail/1779033518/
+
+
+
+***1011. Capacity To Ship Packages Within D Days***
+
+*Submission Link*
+
+
+***875. Koko Eating Bananas***
+
+*Submission Link*
+
+
+
+***74. Search a 2D Matrix***
+
+*Submission Link*
