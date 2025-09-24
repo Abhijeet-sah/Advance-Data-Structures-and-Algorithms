@@ -5,6 +5,14 @@
 
 ***LINKED LIST***
 
+***206. Reverse Linked List***
+
+*Submission Link*
+
+https://leetcode.com/submissions/detail/1781177161/
+
+
+
 ***876. Middle of the Linked List***
 
 *Submission Link*
