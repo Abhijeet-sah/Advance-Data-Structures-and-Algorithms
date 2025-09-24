@@ -1,7 +1,17 @@
 ***HERE YOU GOT ALL MY SUBMISSION REPORT OF LEETCODE PROBLEMS***
 
+
 ---
 
+***LINKED LIST***
+
+***237. Delete Node in a Linked List***
+
+*Submissin Link*
+https://leetcode.com/submissions/detail/1781155953/
+
+
+---
 ***BINARY SEARCH***
 
 **153. Find Minimum in Rotated Sorted Array**
