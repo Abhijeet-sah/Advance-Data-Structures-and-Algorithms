@@ -4,6 +4,25 @@
 https://leetcode.com/submissions/detail/1781177161/
 
 
+***141. Linked List Cycle***
+
+*Submission Link*
+https://leetcode.com/submissions/detail/1785231236/
+
+
+
+***142. Linked List Cycle II***
+
+*Submission Link*
+
+
+
+***234. Palindrome Linked List***
+
+*Submission Link*
+
+
+
 
 ***19. Remove Nth Node From End of List***
 
