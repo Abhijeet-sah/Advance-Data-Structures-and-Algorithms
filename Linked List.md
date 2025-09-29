@@ -11,6 +11,20 @@ https://leetcode.com/submissions/detail/1781177161/
 
 
 
+***160. Intersection of Two Linked Lists***
+
+*Submission Link*
+https://leetcode.com/submissions/detail/1786173675/
+
+
+
+***2. Add Two Numbers***
+
+*Submission LInk*
+https://leetcode.com/submissions/detail/1782578635/
+
+
+
 ***141. Linked List Cycle***
 
 *Submission Link*
